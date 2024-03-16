@@ -1,6 +1,6 @@
 ## Data Analytics-Movie Database
 
-Realizado por **Yuri Díaz**
+Realizado por **Renato Díaz**
 
 # Índice
 
