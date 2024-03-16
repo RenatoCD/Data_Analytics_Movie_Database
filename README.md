@@ -66,7 +66,6 @@ python main.py
 - python analisis_grafico.py
 
 ## Conclusiones
-   - Podemos concluir lo siguiente:
 * Pandas es más eficiente para integrar los csv de este proyecto.
 * CBS Evening News es el programa que ha estado más días en el aire. Siendo su primera emisión el 1941-07-01. 
 Le sigue el Concierto anual de la filarmónica de Viena y los Golden Globe Awards.
